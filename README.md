@@ -1,4 +1,4 @@
-# Autonomous Soil Telemetry & Irrigation System
+# Automatic Plant Watering System
 
 An embedded IoT prototype designed to monitor soil moisture levels in real-time and deliver automated, targeted irrigation using an Arduino microcontroller, capacitive sensors, and relay-actuated pumping hardware.
 
